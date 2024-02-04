@@ -1,7 +1,7 @@
 # All about trees
 
 > Simple website have information about trees
->
+
 ## Table of contents
 
 - [Name of project](#all-about-trees)
