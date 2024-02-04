@@ -1,6 +1,6 @@
-# Name of project
+# All about trees
 
-> A longer description
+> Simple website have information about trees
 
 ## Table of contents
 
@@ -30,7 +30,7 @@
 
 ## Technologies
 
-- Node 14.16.0
+- Node 20.9.0
 - VSC code
 - JavaScript
 - ...
