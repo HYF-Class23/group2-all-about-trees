@@ -1,10 +1,10 @@
-# Name of project
+# All about trees
 
-> A longer description
-
+> Simple website have information about trees
+>
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Name of project](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -30,7 +30,7 @@
 
 ## Technologies
 
-- Node 14.16.0
+- Node 20.9.0
 - VSC code
 - JavaScript
 - ...
