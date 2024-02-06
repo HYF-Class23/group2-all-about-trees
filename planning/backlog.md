@@ -7,24 +7,30 @@ create your own!
 
 ## Must-Haves
 
-> these are necessary for basic usability
+ [1]  As a user I want to see title "all about tree" so that message will be communicated
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- Given "all about trees" when website is launched then there should be title at top of website
+  
+[2]  As a user I want to see logo so that marketing wise it will be communicated
+
+- Given "all about trees" when website is launched then there should be logo on both side of the tile at top of website
+  
+ [3] As a user I want to see information about trees so that i can know more about trees
+
+- Given "all about trees" when site is launched then there should be description about tree extended/followed by some diagram, articles, video to explain about trees in details
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+ [4]  As a user I want to see navigation links about tree so that information of tress is displayed -
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+ Given "all about trees" when website is launched then there should be navigation links for intro, context and extras under title
+
+[5] As a user I want to see social media link so that i can connect on social media
+
+ Given "all about trees" when site is launched then there should be footer at the bottom of the page with social media links
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+[6] As a user I want to see more info link so that i can get more details
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+Given "all about trees" when site is launched then there should be reference for more info with hyperlink of the website.
