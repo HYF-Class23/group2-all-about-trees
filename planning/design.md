@@ -2,16 +2,14 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+We build a simple website about trees
 
 ---
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
+> Below is photo of the wireframe
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+
+![Wireframe](image-1.png)
