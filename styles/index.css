@@ -1,1 +1,15 @@
 @import url("./something.css");
+
+body {
+  background-color: white;
+}
+
+/* Logos */
+.bouncy-img {
+  width: 5%;
+  height: 5%;
+}
+
+.bouncy-img:hover {
+  animation: bounce 1s;
+}
