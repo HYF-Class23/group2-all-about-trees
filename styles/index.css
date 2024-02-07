@@ -13,3 +13,8 @@ body {
 .bouncy-img:hover {
   animation: bounce 1s;
 }
+
+/* Description */
+.fascinating-words {
+  font-family: fantasy;
+}
