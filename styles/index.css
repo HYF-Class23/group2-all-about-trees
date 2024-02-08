@@ -46,3 +46,12 @@ body {
 .aside-text {
   font-family: monospace;
 }
+
+.navbar {
+  background-color: transparent;
+  padding-bottom: 300px;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
