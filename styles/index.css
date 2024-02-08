@@ -18,3 +18,27 @@ body {
 .fascinating-words {
   font-family: fantasy;
 }
+
+/* Nav links  */
+.bottom-divider {
+  border-style: none;
+}
+
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+/* Extra link  */
+.aside-info {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+}
