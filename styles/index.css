@@ -42,3 +42,7 @@ body {
   box-shadow: inset 5px 0 5px -5px #29627e;
   font-style: italic;
 }
+
+.aside-text {
+  font-family: monospace;
+}
