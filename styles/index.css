@@ -33,6 +33,11 @@ body {
   border-style: none;
 }
 
+/* More links  */
+.interesting-things {
+  list-style-type: square;
+}
+
 .spaced-items {
   display: flex;
   flex-direction: row;
